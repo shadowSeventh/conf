@@ -1,0 +1,14 @@
+
+providers:
+  - name:             kingsilk
+    type:             aliyun
+    accessKeyId:      Q6Yig4iuGXUu50Nd
+    accessKeySecret:  mW34f9ridJkBplbgEa3SldLVgnsjBh
+    regionId:         cn-hangzhou
+    domains:
+      - kingsilk.xyz
+      - kingsilk.net
+      - kingsilk.link
+      - kingsilk.wang
+
+
