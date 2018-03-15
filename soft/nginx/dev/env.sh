@@ -2,7 +2,7 @@
 
 export APP=nginx
 # 容器的名称
-export APP_C=qh-${APP}
+export APP_C=${APP}
 export DOCKER_REG=registry.cn-hangzhou.aliyuncs.com
 
 export DIR_STORE="/Users/lit/docker/$APP"
